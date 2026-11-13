@@ -16,6 +16,7 @@ dist-ssr
 !.yarn/versions
 
 .zcode/
+tmp/
 
 # Python
 __pycache__/
