@@ -146,6 +146,7 @@ def detect_derived_contests(oiers, derived_type="NGOI", base_prefix="NOIP",
         NGOI2024 ↔ NOIP2023
         NGOI2025 ↔ NOIP2024
         NGOI2026 ↔ NOIP2025
+        NGOI2027 ↔ NOIP2026   # 待收录：NOIP2026 尚未入库
     因此按 school_year 对齐（比赛年与 fall_semester 的编码在不同年份并不统一，
     直接比较 contest.year 会错位）。
 

@@ -70,6 +70,7 @@
     "判定依据与实测见 generator/audit_ngoi.py 与 generator/audit_merge.py：",
     "  NGOI2022↔NOIP2021 / NGOI2023↔NOIP2022：0% 一致 → 独立赛事，保留",
     "  NGOI2024↔NOIP2023 / NGOI2025↔NOIP2024 / NGOI2026↔NOIP2025：同卷，按人处理",
+    "  NGOI2027↔NOIP2026：待收录（NOIP2026 尚未入库；到齐后按同卷规则自动判定）",
     "本列表也可以手工追加赛事名，作为自动判定的覆盖项。"
   ],
   "secondary": {
