@@ -71,7 +71,7 @@ body:
   - type: input
     id: oierdb_version
     attributes:
-      label: OIerDb NG 版本
+      label: OIerDb LexRank 版本
       description: 在页脚处会显示一段长度为 7 的 16 进制数字。
       placeholder: ex. 364e508
     validations:
